@@ -1,0 +1,31 @@
+.header-text {
+    text-align: center;
+}
+h1 {
+    font-family: "Lobster", sans-serif;
+}
+h2 {
+    font-family:"Lobster", sans-serif;
+}
+h3 {
+    font-family: "Cabin", sans-serif;
+}
+p {
+    font-family: "Cabin",sans-serif;
+}
+div {
+
+}
+img {
+    display: block;
+    border-radius:100px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#div-1 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c1/Walnut_street_bridge.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
